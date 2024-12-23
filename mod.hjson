@@ -1,0 +1,23 @@
+#the mod name as displayed in-game
+displayName: "Project Desertry"
+
+#the internal name of your mod
+name: "pd"
+
+#your name
+author: "ArkSourcer"
+
+#the fully qualified main class of the mod
+main: "desertry.Desertry"
+
+#the mod description as seen in the mod dialog
+description: "[white]Mindustry Desertic and frost mod made by ArkSourcer and DP Team, credits to [#fed17b]DylanMBG[white],[purple]InterLix"
+
+#the mod version
+version: 0.005
+
+#the minimum game build required to run this mod
+minGameVersion: 146
+
+#this is a java mod
+java: true
